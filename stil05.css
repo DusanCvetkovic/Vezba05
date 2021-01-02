@@ -1,0 +1,24 @@
+#neuredjena
+{
+	list-style-type: square;
+}
+
+#uredjena
+{
+	list-style-type: lower-alpha;
+}
+
+#uredjena li
+{
+	color: red;
+}
+
+dl dt
+{
+	font-weight: bold;
+}
+
+dl dd
+{
+	font-style: italic;
+}
